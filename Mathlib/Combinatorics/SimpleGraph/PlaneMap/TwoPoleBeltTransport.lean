@@ -1,4 +1,9 @@
 /-
+Copyright (c) 2026 Kyle Mathewson. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Kyle Mathewson
+-/
+/-
 Unequal-pole belt proof, based on Long Table's complete draft and Math's
 internal Team A graph/move proofs. Reviewed and integrated by Math.
 -/
